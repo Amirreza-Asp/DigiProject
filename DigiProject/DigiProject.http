@@ -1,0 +1,6 @@
+@DigiProject_HostAddress = http://localhost:5058
+
+GET {{DigiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
